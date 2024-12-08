@@ -211,7 +211,7 @@ main {
     }
 /*reasons section*/
 #benefits-physical, 
-#benefits-mental,{
+#benefits-mental{
     display:flex;
     flex-direction: column;
     width: 100%;
